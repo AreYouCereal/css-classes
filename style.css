@@ -1,7 +1,22 @@
-
- $("#box").addClass("blue-border");
-<h1 style="color:blue;margin-left:30px;">This is a heading.</h1>
+body {
+	font-family: Arial;
+	font-size: 12px;}
 
 h1 {
-	background color: "#FFCC99;"
-}
+	font-size: 200%;}
+
+h2 {font-size: 1.3em;}
+
+a:link {
+	color: gray;
+	text-dcoration: none;}
+
+a:visited {
+	color: black;}
+
+a:hover {
+	color: gray;
+	text-decoration: underline;}
+
+a:active {
+	color: black;}
